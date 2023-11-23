@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cudeGame/static/css/main.368cd997.css",
+    "main.js": "/cudeGame/static/js/main.d38b7597.js",
+    "static/js/787.dab367c3.chunk.js": "/cudeGame/static/js/787.dab367c3.chunk.js",
+    "static/media/event.png": "/cudeGame/static/media/event.b3c8d81d8e531efd7721.png",
+    "static/media/question.png": "/cudeGame/static/media/question.f9bc2fa44f9b20c9afaa.png",
+    "static/media/duel.png": "/cudeGame/static/media/duel.e7d70c4c9925bc073f12.png",
+    "static/media/logo-game.png": "/cudeGame/static/media/logo-game.a188750399a8bce14368.png",
+    "index.html": "/cudeGame/index.html",
+    "main.368cd997.css.map": "/cudeGame/static/css/main.368cd997.css.map",
+    "main.d38b7597.js.map": "/cudeGame/static/js/main.d38b7597.js.map",
+    "787.dab367c3.chunk.js.map": "/cudeGame/static/js/787.dab367c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.368cd997.css",
+    "static/js/main.d38b7597.js"
+  ]
+}
