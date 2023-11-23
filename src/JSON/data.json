@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "color": "Blue",
+      "domain": "Typography",
+      "questions": [
+        {
+          "question": "What is a monospaced font?",
+          "answer": "A font where each character occupies the same horizontal space."
+        },
+        {
+          "question": "What is a serif font?",
+          "answer": "A font with small lines at the ends of the letters."
+        },
+        {
+          "question": "What is hyphenation in typography?",
+          "answer": "The division of a word at the end of a line to improve text alignment."
+        }
+      ]
+    },
+    {
+      "color": "Pink",
+      "domain": "Colorimetry",
+      "questions": [
+        {
+          "question": "What is a primary color?",
+          "answer": "A color that cannot be created by mixing other colors."
+        },
+        {
+          "question": "What is a complementary color?",
+          "answer": "A color located opposite another on the color wheel."
+        },
+        {
+          "question": "What is RGB?",
+          "answer": "A color model based on light, using Red, Green, and Blue."
+        }
+      ]
+    },
+    {
+      "color": "Purple",
+      "domain": "Marketing",
+      "questions": [
+        {
+          "question": "What is a slogan?",
+          "answer": "A short and catchy phrase used to easily identify a brand or product."
+        },
+        {
+          "question": "What is direct marketing?",
+          "answer": "A form of advertising where companies communicate directly with consumers."
+        },
+        {
+          "question": "Why are logos used in marketing?",
+          "answer": "To create immediate visual identification of the brand or company."
+        }
+      ]
+    },
+    {
+      "color": "Green",
+      "domain": "Website",
+      "questions": [
+        {
+          "question": "What is a hyperlink?",
+          "answer": "An element on a web page that, when clicked, directs to another page or another part of the page."
+        },
+        {
+          "question": "What is a responsive website?",
+          "answer": "A site that adapts to the screen size on which it is displayed."
+        },
+        {
+          "question": "Why is it important to have a website?",
+          "answer": "To have an online presence, reach a wider audience, and provide information about products or services."
+        }
+      ]
+    },
+    {
+      "color": "Yellow",
+      "domain": "Graphic Elements",
+      "questions": [
+        {
+          "question": "What is an icon in graphic design?",
+          "answer": "A simple and symbolic graphic representation used to depict a function, object, or concept."
+        },
+        {
+          "question": "What is a pictogram?",
+          "answer": "A graphic symbol that represents a concept, object, or action in a simplified manner."
+        },
+        {
+          "question": "What is the purpose of a chart in a presentation?",
+          "answer": "To visually represent data or information, facilitating understanding."
+        }
+      ]
+    }
+  ]
+}

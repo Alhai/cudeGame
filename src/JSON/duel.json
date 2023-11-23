@@ -1,0 +1,23 @@
+{
+    "duel": [
+      {
+        "domain": "Duel",
+        "color": "Black",
+        "questions": [
+          {
+            "question": "What is the main role of a community manager ?",
+            "answer": "The main role of the community manager is to post content on social networks, create interactive content..."
+          },
+          {
+            "question": "What does it mean to “go viral” on the internet ?",
+            "answer": "To go viral means that what posted spreads rapidly and widely across various platforms."
+          },
+          {
+            "question": "Give at least 3 steps of a graphic chart.",
+            "answer": "Colors, Typography, Logo..."
+          }
+        ]
+      }
+    ]
+  }
+  

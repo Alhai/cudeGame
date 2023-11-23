@@ -1,0 +1,27 @@
+.headerLink {
+    color: white;
+    margin-bottom: 8px; 
+    position: relative;
+    text-decoration: none;
+    font-family: 'League Spartan', sans-serif;
+}
+.header-text{
+    display :flex;
+    flex-direction: row;
+    align-items: flex-end ;
+    justify-content: flex-end;
+}
+.headerLink::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: white;
+    transition: width 0.3s ease-in-out;
+}
+
+.headerLink:hover::after {
+    width: 100%;
+}

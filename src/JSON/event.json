@@ -1,0 +1,23 @@
+{
+    "eventList": [
+      {
+        "domain": "Event",
+        "color": "Blue",
+        "events": [
+          {
+            "event": "The wifi went out. Unfortunately you have to pass your turn."
+          },
+          {
+            "event": "You have a new job unit. You can swipe a new card \"Company\""
+          },
+          {
+            "event": "Connection problem. Your co-worker can no longer talk to you"
+          },
+          {
+            "event": "A little boost. Go to the \"Typography\" box"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,20 @@
+.custom-dialog .MuiPaper-root {
+    font-family: 'League Spartan', sans-serif;
+    width: 80%; /* Définit la largeur à 80% de la largeur de la page */
+    max-width: none; /* Annule la largeur maximale par défaut si nécessaire */
+}
+
+.custom-dialog .MuiDialogTitle-root {
+    background-color: black;
+    color: white;
+}
+.custom-dialog .MuiDialogActions-root {
+    background-color: black;
+    color: white;
+}
+
+/* .custom-dialog .MuiDialogContent-root {
+    align-items: center;
+    background-color: black;
+    color: white;
+} */
